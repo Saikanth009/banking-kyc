@@ -1,0 +1,2 @@
+ERROR STATUS: 400
+ERROR DATA: { error: 'Email already exists' }
